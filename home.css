@@ -20,6 +20,10 @@ body{
     background-image: linear-gradient(to right, blue, green);
     margin: 0;
     padding: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
     min-height: 2000px;
 }
 section{
